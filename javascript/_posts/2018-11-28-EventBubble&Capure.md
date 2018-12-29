@@ -83,7 +83,7 @@ boolean 형식의 값을 넣을경우에는 useCapture로 caputuring 여부를 �
 
 ## 이벤트 위임 (Event delegate)
 
-vanilla js로 SPA를 컨트롤 할때, 고정된 요소가 아니라 동적으로 생성 & 삭제가 빈번하게 일어 나는 요소(주로 리스트)마다 이벤트를 bind 할 때 매번 이벤트를 등록하고 삭제시 해제하는 것은 바람직 하지 않아 보인다. 이 때 이벤트 위임을 통하여 다음과 같은 문제를 해결 할 수 있다. 
+vanilla js로 SPA를 컨트롤 할때, 고정된 요소가 아니라 동적으로 생성 & 삭제가 빈번하게 일어 나는 요소(주로 리스트)마다 이벤트를 bind 할 때 매번 이벤트를 등록하고 삭제시 해제하는 것은 바람직 하지 않아 보입니다. 이 때 이벤트 위임을 통하여 다음과 같은 문제를 해결 할 수 있습니다. 
 
 {% raw %}
 <iframe width="100%" height="300" src="//jsfiddle.net/38ojw9Lh/embedded/js,html,result/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
