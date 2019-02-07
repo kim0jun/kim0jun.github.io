@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [ES6] 반복자(Iterator) 와 생성자(Generator)
+title: ES6 - 반복자(Iterator) 와 생성자(Generator)
 ---
 Iterator와 Generator는 es6 부터 있던기능인데 필요성을 느끼지못하여 잘 살펴보지 않았었는데, 최근 제가 사용하고자 하는 라이브러리 들이 공통적으로 Generator를 사용하기에, 필요성을 느껴 스터디겸 정리를 해보고자합니다. 
 
